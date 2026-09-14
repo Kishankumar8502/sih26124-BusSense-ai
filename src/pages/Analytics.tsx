@@ -1,0 +1,2 @@
+import { AnalyticsCharts } from '../components/analytics/AnalyticsCharts'
+export function Analytics() { return <section className="page-section"><div className="section-intro"><p className="eyebrow">Pattern monitoring</p><h2>Traffic Analytics</h2><p>Prototype visualizations using static sample values. These are not real AI calculations.</p></div><div className="analytics-notice">All charts use mock data to demonstrate the future intelligence workspace.</div><AnalyticsCharts/></section> }
